@@ -1,0 +1,32 @@
+﻿Git/GitHub:
+Sistema de versionamento de código.
+Tecnologias diferentes, mas complementares.
+* cd: Navega para um local específico no sistema.
+* Cd .. :retrocede.
+* Dir/ls: abre todas as pastas dentro do diretório.
+* tab: Autocompleta.
+* mkdir: Criar uma pasta.
+* echo hello > : Criar arquivo.
+* rmdir: Deletar pasta. 
+* del: Deletar arquivo.
+* Ctrl + l: Limpar o terminal.
+SHA1: Encriptação de caracteres de 40 dígitos.
+
+
+        Objetos do Git:
+Blobs: Guarda os metadados do objeto.
+Trees: Armazena as blobs.
+Commits: Junta tudo.
+
+
+Comandos Git:
+Git init: Iniciar. Cria um repositório dentro da pasta.
+Git add . : Adiciona um arquivo no Git Bash que você editou no PC.
+Git commit -m: Adiciona no Github o que você editou no PC através do Git Bash. Depois faz o “git push origin main” para enviar os comits locais para a nuvem. 
+Git status: Status.
+
+
+        Passo a passo:
+New repository - Commit - Clona o código - Git Bash Here na pasta onde vai salvar - Digita “git clone” + Ctrl V.
+Fazendo isto, vai avisar que está clonando.
+Abre no Bash o repositório.
